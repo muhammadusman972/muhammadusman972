@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammadusman972
-- 👀 I’m interested in software development,Data Engineering and loooking for opportunities in Data Science
-- 🌱 I’m currently learning Python, AWS Services
+- 👀 I’m interested in software development,Data Engineering and Data Science
+- 🌱 I have exerptise in  Python, AWS AppSync,AWS Lambda, AWS S3,AWS EC2, Airflow, SQL
 - 💞️ I’m looking to collaborate on open source project of data engineering
 - 📫 How to reach me https://www.linkedin.com/in/muhammad-usman-8b92091b8/
 
